@@ -27,4 +27,14 @@ for summarization tasks in the old days, and we further evaluate performance wit
 a more recent metric that measures not only tokens overlap but also the coherence of the gen-
 erated summaries.
 
+## 🧪 Model Performance Comparison
+
+| Model      | Rouge 1 | Rouge 2 | Rouge L | BERT  |
+|------------|---------|---------|---------|--------|
+| Longformer | 19      | 4.8     | 15      | 86.0   |
+| **PRIMERA**  | **28.55** | **6.41** | **17.84** | **86.4** |
+| PEGASUS-X  | 21.06   | 5.32    | 15.6    | 86.24  |
+| CENTRUM    | 20.4    | 5.1     | 15.5    | 86.0   |
+
+
 
