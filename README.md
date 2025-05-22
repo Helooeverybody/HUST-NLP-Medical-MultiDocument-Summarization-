@@ -1,7 +1,8 @@
 # Abstractive Long Multi-Document Summarization
 Data is available at: [data](https://github.com/allenai/mslr-shared-task)
 
-To run the code, please download the checkpoint files at here, and run notebook inference_test_output
+To run the code, please download the checkpoint files at, and put it folder model,
+and run notebook inference_test_output
 
 
 Group 1 members:
