@@ -1,7 +1,7 @@
 # Abstractive Long Multi-Document Summarization
 Data is available at: [data](https://github.com/allenai/mslr-shared-task)
 
-To run the code, please download the checkpoint files at ơmodels](https://husteduvn-my.sharepoint.com/personal/tung_nhs225536_sis_hust_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftung%5Fnhs225536%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2Fmodel%2Erar&parent=%2Fpersonal%2Ftung%5Fnhs225536%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments&ga=1), and put it folder model,and run 
+To run the code, please download the checkpoint files at [models](https://husteduvn-my.sharepoint.com/personal/tung_nhs225536_sis_hust_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftung%5Fnhs225536%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2Fmodel%2Erar&parent=%2Fpersonal%2Ftung%5Fnhs225536%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments&ga=1), and put it folder model,and run 
 notebook inference_test_output
 
 
